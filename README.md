@@ -1,7 +1,6 @@
 <p align="center">
   <img src="savi sync logo.png" alt="Savi Sync Logo" width="200"/>
 </p>
-# Savi Sync
 
 **Savi Sync** is a cross-platform game save sync utility currently in development. Its goal is to make syncing game saves easy and reliable for games that don’t support native or platform-based cloud saving (e.g., Steam Cloud or Epic Games Cloud Saves).
 
