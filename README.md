@@ -1,4 +1,6 @@
-# Savi Sync
+<p align="center">
+  <img src="savi sync logo.png" alt="Savi Sync Logo" width="200"/>
+</p>
 
 **Savi Sync** is a cross-platform game save sync utility created by **Tichiko**. It wraps around [Ludusavi](https://github.com/mtkennerly/ludusavi) and integrates with [Syncthing](https://syncthing.net/), designed primarily for Steam Deck and desktop PC gamers.
 
