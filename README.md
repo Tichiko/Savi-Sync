@@ -1,8 +1,13 @@
 <p align="center">
   <img src="savi sync logo.png" alt="Savi Sync Logo" width="200"/>
 </p>
+# Savi Sync
 
-**Savi Sync** is a cross-platform game save sync utility. this is a work in progress with the goal of making it simple and easy to sync games that do not use Cloud Save Syncing either natively or through platforms like Steam or Epic Games. It wraps around [Ludusavi](https://github.com/mtkennerly/ludusavi) and integrates with [Syncthing](https://syncthing.net/), designed primarily with the Steam Deck in mind but the goal is to build it in a way that will support linux desktops as a whole and windows.
+**Savi Sync** is a cross-platform game save sync utility currently in development. Its goal is to make syncing game saves easy and reliable for games that don’t support native or platform-based cloud saving (e.g., Steam Cloud or Epic Games Cloud Saves).
+
+Savi Sync wraps around [Ludusavi](https://github.com/mtkennerly/ludusavi) and integrates with [Syncthing](https://syncthing.net/) to create a seamless syncing experience. While it’s designed primarily with the **Steam Deck** in mind, it also supports **Linux desktops** and **Windows**.
+
+> ⚠️ **Note:** macOS is not officially supported at this time. However, as an open source project, contributions for macOS compatibility are welcome.
 
 ## Features
 
