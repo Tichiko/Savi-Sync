@@ -1,6 +1,6 @@
-# Game Sync Tool
+# Savi Sync
 
-A cross-platform save sync utility that wraps around [Ludusavi](https://github.com/mtkennerly/ludusavi) and integrates with [Syncthing](https://syncthing.net/). Designed with Steam Deck and PC in mind.
+**Savi Sync** is a cross-platform game save sync utility created by **Tichiko**. It wraps around [Ludusavi](https://github.com/mtkennerly/ludusavi) and integrates with [Syncthing](https://syncthing.net/), designed primarily for Steam Deck and desktop PC gamers.
 
 ## Features
 
@@ -31,4 +31,5 @@ python main.py -syncthing    # Open Syncthing config page
 
 ## License
 
-MIT
+This project is licensed under the terms of the **GNU General Public License v3.0**.
+See the [LICENSE](LICENSE) file for details.
